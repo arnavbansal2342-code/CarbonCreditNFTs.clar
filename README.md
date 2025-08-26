@@ -300,5 +300,9 @@ This project is licensed under the **MIT License** - see LICENSE file for detail
 ---
 
 **Built with 💚 for a sustainable future**
+###contract details
+ST3N9T60FWD2ESGHMHBEGEMN1ZWC77SYNYQ5G2YH3.CarbonCreditNFTs
+<img width="1908" height="901" alt="image" src="https://github.com/user-attachments/assets/30da1fd0-e758-498d-8fb0-442fd10e2281" />
+
 
 *Empowering transparent climate action through blockchain technology*
