@@ -201,24 +201,14 @@ clarinet call-contract [contract-address] mint-carbon-credit [params]
 
 ### Testnet Deployment
 - **Network**: Stacks Testnet
-- **Contract Address**: `[To be added after deployment]`
-- **Deployer Address**: `[To be added]`
-- **Block Height**: `[To be added]`
-- **Transaction ID**: `[To be added]`
-- **Explorer Link**: `[To be added]`
+
 
 ### Mainnet Deployment
 - **Network**: Stacks Mainnet  
-- **Contract Address**: `[To be added after deployment]`
-- **Deployer Address**: `[To be added]`
-- **Block Height**: `[To be added]`
-- **Transaction ID**: `[To be added]`
-- **Explorer Link**: `[To be added]`
+
 
 ### Contract Verification
 - **Source Code**: Verified on Stacks Explorer
-- **Audit Status**: [To be completed]
-- **Security Review**: [To be completed]
 
 ## Technical Specifications
 
